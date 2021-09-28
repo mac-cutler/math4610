@@ -14,5 +14,5 @@ The following links are provided for easy navigation through the contents of thi
   * [Tasksheet 2](https://mac-cutler.github.io/math4610/Table-of-Contents/Tasksheet2)
 
 ### Software Manual
-[Software Manual](https://mac-cutler.github.io/math4610/Sofware-Manual)
+[Software Manual](https://mac-cutler.github.io/math4610/Software-Manual)
 
