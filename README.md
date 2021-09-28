@@ -9,8 +9,8 @@ Python for the course.
 The following links are provided for easy navigation through the contents of this repository.
 
 ### Homework Assignments
-[Table of Contents]()
-  * [Tasksheet 1](https://mac-cutler.github.io/math4610/Tasksheet1)
+[Table of Contents](https://mac-cutler.github.io/math4610/Table-of-Contents)
+  * [Tasksheet 1](https://mac-cutler.github.io/math4610/Table-of-Contents/Tasksheet1)
   * [Tasksheet 2]()
 
 ### Software Manual
