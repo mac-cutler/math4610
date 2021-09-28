@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tasksheet 1"
-permalink: /Tasksheet1/
+permalink: /Table-of-Contents/Tasksheet1/
 ---
 
 # Math 4610 Fundamentals of Computational Mathematics: Tasksheet 1
