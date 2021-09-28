@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tasksheet 2"
-url: /Table-of-Contents/Tasksheet2/
+permalink: /Table-of-Contents/Tasksheet2/
 ---
 # Math 4610 Fundamentals of Numerical Analysis: Tasksheet 2 Problems/Questions
 
