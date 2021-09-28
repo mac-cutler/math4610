@@ -11,8 +11,8 @@ The following links are provided for easy navigation through the contents of thi
 ### Homework Assignments
 [Table of Contents](https://mac-cutler.github.io/math4610/Table-of-Contents)
   * [Tasksheet 1](https://mac-cutler.github.io/math4610/Table-of-Contents/Tasksheet1)
-  * [Tasksheet 2]()
+  * [Tasksheet 2](https://mac-cutler.github.io/math4610/Table-of-Contents/Tasksheet2)
 
 ### Software Manual
-[Software Manual]()
+[Software Manual]((https://mac-cutler.github.io/math4610/Sofware-Manual)
 
