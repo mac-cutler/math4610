@@ -1,10 +1,12 @@
+---
 layout: page
 title: "Tasksheet 1"
 permalink: /Tasksheet1/
+---
 
 # Math 4610 Fundamentals of Computational Mathematics: Tasksheet 1
 ## Problems/Questions
----
+_ _ _ 
 - Task 1: Set up an appointment to meet with your instructor via Zoom. There are a couple of ways to do this. During office hours you can join a Zoom meeting that will be running. The information, including a link and password will be sent to you via your email address. If you cannot make office hours, you can set up an appointment at another time to hold the meeting. To do this, (1) email your instructor with a time that will work, (2) copy the link 
 \
 [https://usu-edu.zoom.us/j/2708849140?pwd=OGFCTENRb08yQTJGQUg0cWU3b2Jrdz09](https://usu-edu.zoom.us/j/2708849140?pwd=OGFCTENRb08yQTJGQUg0cWU3b2Jrdz09)
@@ -25,7 +27,7 @@ Thanks so much! Looking forward to the course.
 \
 Mac
 
----
+_ _ _
 - Task 2: There are two parts to this task.
   - After creating a Github account at
   \
@@ -66,7 +68,7 @@ Mac
 \
 The link works, so I'm assuming that's enough for the completion of that portion of the task. 
 
----
+_ _ _
 - Task 3: Email your instructor as to which command line environment you will use in the course. Possible choices are: (1) term on Cygwin, (2) term or xterm on Linux, (3) the command window on MacOS, or (5) PowerShell on Windows. If you plan on emulating your instructor's terminal emulator, you should probably install Cygwin. However, installation of Cygwin is not required for the course.
 \
 _Soln._ See text of email above. I will be using Cygwin for the course. 
@@ -104,7 +106,7 @@ remote: Compressing objects: 100% (2/2), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
 ```
---- 
+_ _ _
 - Task 5: Search the internet for sites that talk about Version Control Systems (VCS) like Github. Write a brief paragraph (3 or 4 sentences) that describe 
 your findings. Include links to the sites you cite in your response. 
 
