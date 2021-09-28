@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# MATH 4610 Repo
 
-You can use the [editor on GitHub](https://github.com/mac-cutler/math4610/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Description 
+This repository contains code written for MATH 4610, Fundamentals of Numerical Analysis, taught by Dr. Joe Koebbe in Fall 2021. In this repository
+you will find links to homework assignments, or "tasksheets," as well as a software manual containing functions and programs written in 
+Python for the course. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Relevant Links 
+The following links are provided for easy navigation through the contents of this repository.
 
-### Markdown
+### Homework Assignments
+[Table of Contents]()
+  * [Tasksheet 1]()
+  * [Tasksheet 2]()
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software Manual
+[Software Manual]()
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mac-cutler/math4610/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
