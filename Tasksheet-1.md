@@ -1,6 +1,6 @@
 layout: page
 title: "Tasksheet 1"
-permalink: /Tasksheet1
+permalink: https://mac-cutler.github.io/math4610/Tasksheet1
 
 # Math 4610 Fundamentals of Computational Mathematics: Tasksheet 1
 ## Problems/Questions
