@@ -1,3 +1,7 @@
+layout: page
+title: "Tasksheet 1"
+permalink: /Tasksheet1
+
 # Math 4610 Fundamentals of Computational Mathematics: Tasksheet 1
 ## Problems/Questions
 ---
